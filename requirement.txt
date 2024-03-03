@@ -1,0 +1,24 @@
+..................Installing django.....................
+
+pip3 install django
+
+
+..................Start a django Project..................
+
+django-admin startproject social_book
+
+
+.................Start a django app.....................
+
+django-admin startapp core
+
+.................Start Server Running.............
+
+python3 manage.py runserver
+
+
+Supported Youtube Video
+
+ https://www.youtube.com/watch?v=xSUm6iMtREA&t=168s
+
+.
