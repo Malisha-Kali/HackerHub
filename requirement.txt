@@ -5,7 +5,7 @@ pip3 install django
 
 ..................Start a django Project..................
 
-django-admin startproject social_book
+django-admin startproject HackerHub
 
 
 .................Start a django app.....................
