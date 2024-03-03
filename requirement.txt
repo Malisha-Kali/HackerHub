@@ -20,5 +20,3 @@ python3 manage.py runserver
 Supported Youtube Video
 
  https://www.youtube.com/watch?v=xSUm6iMtREA&t=168s
-
-.
